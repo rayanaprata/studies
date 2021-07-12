@@ -9,3 +9,9 @@ Também quero deixar disponível para que outras pessoas tenham acesso aos mater
 Mas pode comemorar pois pretendo transformar isso aqui num mundo de artigos, vídeos, cursos e links que levam a conhecimentos que achei interessante! 🍀🤞🏻
 
 Desta forma, neste repositório pretendo manter um log com os assuntos que estudo ao longo dos dias. Acredito que é muito importante estudar um pouco a cada dia e não tudo de uma vez, por isso pretendo registrar por aqui o que tenho estudado.
+
+---
+
+### 📝 Projetos que quero desenvolver:
+- [ ] Pomodoro Timer;
+- [ ] Página para realizar Sorteios Online;
