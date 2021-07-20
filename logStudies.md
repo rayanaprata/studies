@@ -26,3 +26,12 @@ Hoje acordei cedo para estudar antes do trabalho, consegui concluir metade do m�
 Fiquei bem empolgada pela manhã e li um pouco deste [React Tutorial](https://www.taniarascia.com/getting-started-with-react/) que encontrei na própria documentação do ReactJS, indicado para iniciantes no aprendizado da lib. Mas vou encerrando os estudos por hoje pois amanha quero estar com gás para finalizar este módulo e partir para o desenvolvimendo do desafio (projeto prático). :)
 
 ---
+
+### 03 - Day Three ⏳
+
+Hoje eu tirei um tempinho pra absorver tudo que aprendi nos últimos dias! Ontem terminei o curso de Web & React do Bootcamp FullStack Santander.
+Amanhã já tem a prova para ver se passo para a terceira fase e confesso que se eu não passar vou ficar bem tranquila pois já estou cheeeeia de outras demandas da faculdade, o bootcamp da hiring coders e outros cursos que estou fazendo.
+
+Estudei mais um pouco de Typescript hoje pois realmente gostei disso! Preciso planejar e organizar os estudos dessa semana porque tem muita entrega do Bootcamp e é minha última semana de férias. Precisava tirar mais um tempo de descanso mas não vai dar, vou ter que deixar para o fim do semestre.
+
+Tem tanta coisa que quero fazer, tanto projeto legal pra construir... As vezes me bate uma ansiedade e vontade de sair começando tudo mas sei que preciso finalizar algumas coisas antes de começar novas, pois estou realmente comprometida em concluir o que eu começo e entregar o meu melhor.
