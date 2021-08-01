@@ -35,3 +35,13 @@ Amanhã já tem a prova para ver se passo para a terceira fase e confesso que se
 Estudei mais um pouco de Typescript hoje pois realmente gostei disso! Preciso planejar e organizar os estudos dessa semana porque tem muita entrega do Bootcamp e é minha última semana de férias. Precisava tirar mais um tempo de descanso mas não vai dar, vou ter que deixar para o fim do semestre.
 
 Tem tanta coisa que quero fazer, tanto projeto legal pra construir... As vezes me bate uma ansiedade e vontade de sair começando tudo mas sei que preciso finalizar algumas coisas antes de começar novas, pois estou realmente comprometida em concluir o que eu começo e entregar o meu melhor.
+
+---
+
+### 04 - Day Four 🎢
+
+Ok, eu estudei muuuuito entre o dia três e o dia quatro, basicamente todos os dias. Mas foi um ritmo tão louco que mal tive tempo para escrever por aqui! Essa reta final da primeira etapa do TCC é muito insana, quero nem ver quando for a versão final mesmo no semestre que vem.
+
+Bom, sobre o dia de hoje eu estou continuando o curso de Web Design Completo da Origamid. Ontem dei início no meu portfólio pessoal e estou bem animada pra dar andamento nisso! É realmente muito legal saber que eu já tenho conhecimento suficiente pra construir algumas "coisas que prestam" hahah. Essa semana eu estou de aniversário então pretendo pegar um pouco mais leve, vou estudar todos os dias também mas com menos cobrança.
+
+Quero fazer meu próprio cronograma de estudos incluindo todos os assuntos que me interessam, desde Front-end, UI/UX Design até algumas skills da carreira de Product Manager que parece tão legal. Bem, por hoje é isto, vou continuar meu curso da Origamid e organizar minha semana.
