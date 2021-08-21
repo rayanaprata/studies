@@ -13,5 +13,6 @@ Desta forma, neste repositório pretendo manter um log com os assuntos que estud
 ---
 
 ### 📝 Projetos que quero desenvolver:
+- [ ] Pokedex;
 - [ ] Pomodoro Timer;
 - [ ] Página para realizar Sorteios Online;
