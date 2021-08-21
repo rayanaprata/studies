@@ -45,3 +45,11 @@ Ok, eu estudei muuuuito entre o dia três e o dia quatro, basicamente todos os d
 Bom, sobre o dia de hoje eu estou continuando o curso de Web Design Completo da Origamid. Ontem dei início no meu portfólio pessoal e estou bem animada pra dar andamento nisso! É realmente muito legal saber que eu já tenho conhecimento suficiente pra construir algumas "coisas que prestam" hahah. Essa semana eu estou de aniversário então pretendo pegar um pouco mais leve, vou estudar todos os dias também mas com menos cobrança.
 
 Quero fazer meu próprio cronograma de estudos incluindo todos os assuntos que me interessam, desde Front-end, UI/UX Design até algumas skills da carreira de Product Manager que parece tão legal. Bem, por hoje é isto, vou continuar meu curso da Origamid e organizar minha semana.
+
+---
+
+### 05 - Day Five
+
+O TCC e a faculdade estão tomando conta de quase todo meu tempo, estou com um pouco de dificuldade de manter o ritmo dos estudos em Front com tantas outras coisas pra estudar e entregar ao mesmo tempo, maaaaas, não vou desistir! 
+
+Quero fazer o Bootcamp da Brainn e estou começando o Pre-Work só hoje (poisé, quase no último dia) rsrsr. Mas eu confio no meu potencial de me comprometer a fazer algo e dar meu sangue pra tentar fazer. Além do mais, já estou estudando React a um tempinho então com certeza vai ser um conhecimento complementar e que vai agragar demais!
